@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1669736538 source:c:\users\emanuel baquero\onedrive\escritorio\projectolinkedlist\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"string.h"
+
+1669430581 c:\users\emanuel baquero\onedrive\escritorio\projectolinkedlist\linkedlist.h
+
+1669658905 source:c:\users\emanuel baquero\onedrive\escritorio\projectolinkedlist\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
